@@ -5,7 +5,8 @@
   background-position: center;
   color: white;
   position: relative;
-  margin: 20px
+  margin: 20px;
+  box-shadow: 2px 2px 3px $shadow;
 }
 .card-user {
   position: absolute;
